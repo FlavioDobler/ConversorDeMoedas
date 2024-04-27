@@ -44,6 +44,14 @@ public class Main {
                      from = "COP";
                      to = "USD";
                     break;
+                case 7 :
+                    from = "CLP";
+                    to = "USD";
+                    break;
+                case 8 :
+                    from = "BOB";
+                    to = "USD";
+                    break;
                 default:
                     System.out.println("Digite uma opção válida");
             }
@@ -53,7 +61,7 @@ public class Main {
                 double amount = leitura.nextDouble();
                 request.fazerRequisicao(from,to,amount);
            }
-        } while (input != 7);
+        } while (input != 9);
     }
 }
 

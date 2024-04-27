@@ -13,8 +13,10 @@ public class UserUI {
         System.out.println("4- De Real para Dólar");
         System.out.println("5- De Dólar para Peso Colombiano");
         System.out.println("6- De Peso Colombiano para Dólar");
+        System.out.println("7- De Peso Chileno para Dólar");
+        System.out.println("8- De Peso Boliviano para Dólar");
         System.out.println("");
-        System.out.println("7- Sair");
+        System.out.println("9- Sair");
         System.out.println("");
         System.out.println("Escolha uma opção válida:");
         System.out.println("***********************************");
