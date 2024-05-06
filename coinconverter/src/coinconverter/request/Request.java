@@ -11,7 +11,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class Request {
-    String key = "b34e0cb750b85aaf528c8f0c";
+    String key = "API KEY AQUI";
 
 
 
