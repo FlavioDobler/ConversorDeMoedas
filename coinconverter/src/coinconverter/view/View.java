@@ -1,6 +1,6 @@
-package coinconverter.userinterface;
+package coinconverter.view;
 
-public class UserUI {
+public class View {
 
     public void showInterface() {
         System.out.println("***********************************");

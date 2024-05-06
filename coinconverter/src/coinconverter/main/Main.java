@@ -1,7 +1,7 @@
 package coinconverter.main;
 
 import coinconverter.request.Request;
-import coinconverter.userinterface.UserUI;
+import coinconverter.view.View;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
         Request request = new Request();
-        UserUI ui = new UserUI();
+        View ui = new View();
         String from = null;
         String to = null;
 
