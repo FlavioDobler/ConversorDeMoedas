@@ -17,4 +17,4 @@ Desafio do conversor de moedas do programa Oracle One, usando a exchangerate-api
 - ``ExchangeRate-API;``
 - ``Gson;``
 
-![Badge](/images/Badge-Conversor.png)
+![Badge](coinconverter/Images/Badge-Conversor.png)
