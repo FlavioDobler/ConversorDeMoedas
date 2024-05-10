@@ -16,3 +16,5 @@ Desafio do conversor de moedas do programa Oracle One, usando a exchangerate-api
 - ``Paradigma de orientação a objetos;``
 - ``ExchangeRate-API;``
 - ``Gson;``
+
+![Badge](/images/Badge-Conversor.png)
